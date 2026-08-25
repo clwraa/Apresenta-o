@@ -7,16 +7,27 @@ Estou construindo minha trajetória na área de tecnologia, unindo meus conhecim
 
 🌱 Atualmente, estou focada em aprender, desenvolver projetos e evoluir cada vez mais como profissional.
 
+
 💜 Sobre mim
+
 👩🏻 Ana Clara, 19 anos
+
 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
+
 🏫 Formação Técnica em Administração — SENAI
+
 💻 Em constante aprendizado na área de tecnologia
+
 🚀 Desenvolvendo projetos para colocar meus conhecimentos em prática
+
 🧠 Interessada em programação e desenvolvimento de software
+
 📚 Sempre buscando novos conhecimentos e desafios
+
 🎓 Formação
+
 💻 Análise e Desenvolvimento de Sistemas
+
 
 Cursando
 
