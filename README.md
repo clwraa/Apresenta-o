@@ -1,114 +1,81 @@
-👋 Olá, eu sou ANA
+👩🏻‍💻 Olá, eu sou a Ana Clara!
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Desenvolvedor de Software | Full Stack | Tecnologia & Inovação
+Tenho 19 anos, sou formada como Técnica em Administração pelo SENAI e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS).
 
-Sou desenvolvedor de software apaixonado por tecnologia, criação de soluções e resolução de problemas através do código.
+Estou construindo minha trajetória na área de tecnologia, unindo meus conhecimentos de administração com o desenvolvimento de software. Tenho interesse em programação, tecnologia e criação de soluções que possam facilitar processos e resolver problemas.
 
-Tenho interesse em construir aplicações escaláveis, eficientes e bem estruturadas, sempre buscando evoluir tecnicamente e acompanhar as boas práticas do mercado.
+🌱 Atualmente, estou focada em aprender, desenvolver projetos e evoluir cada vez mais como profissional.
 
-🚀 Sobre mim
-💻 Desenvolvedor de software
-🌱 Atualmente estudando e aprimorando minhas habilidades em tecnologia
-🔭 Trabalhando em projetos pessoais e profissionais
-🧠 Interessado em arquitetura de software, desenvolvimento web e boas práticas
-🎯 Focado em escrever código limpo, organizado e sustentável
-📚 Sempre aprendendo algo novo
-🛠️ Tecnologias & Ferramentas
-💻 Linguagens
+💜 Sobre mim
+👩🏻 Ana Clara, 19 anos
+🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
+🏫 Formação Técnica em Administração — SENAI
+💻 Em constante aprendizado na área de tecnologia
+🚀 Desenvolvendo projetos para colocar meus conhecimentos em prática
+🧠 Interessada em programação e desenvolvimento de software
+📚 Sempre buscando novos conhecimentos e desafios
+🎓 Formação
+💻 Análise e Desenvolvimento de Sistemas
 
+Cursando
 
+Atualmente estou estudando desenvolvimento de software e ampliando meus conhecimentos em programação, banco de dados, engenharia de software e outras áreas relacionadas à tecnologia.
 
+📊 Técnica em Administração — SENAI
 
+Concluído
 
+Durante minha formação, desenvolvi conhecimentos relacionados à administração, organização, planejamento, processos e trabalho em equipe.
 
-🌐 Front-end
+🛠️ Tecnologias & Conhecimentos
 
-
-
-
-
-
-⚙️ Back-end
-
-
-
-
-🗄️ Banco de Dados
-
-
-
-
-
-🔧 Ferramentas
+Estou constantemente aprendendo e aprimorando minhas habilidades em:
 
 
 
 
 
 
-📌 Projetos em destaque
-🚀 Projeto 01 — Nome do Projeto
 
-Breve descrição do projeto e do problema que ele resolve.
 
-Tecnologias: React Node.js PostgreSQL
+🚧 Esta seção está em constante evolução conforme avanço nos meus estudos.
 
-🔗 Ver projeto
+🚀 Minha jornada
 
-🧩 Projeto 02 — Nome do Projeto
+Minha trajetória começou na área de Administração, através da formação técnica no SENAI. Durante minha caminhada acadêmica, descobri novas possibilidades na área de tecnologia e comecei a me aprofundar no desenvolvimento de software.
 
-Descrição resumida da aplicação, suas principais funcionalidades e seu objetivo.
+Hoje, cursando ADS, busco unir minha visão de processos e organização com meus conhecimentos em tecnologia para criar soluções eficientes e inovadoras.
 
-Tecnologias: TypeScript Next.js MongoDB
+📌 Projetos
 
-🔗 Ver projeto
+Aqui estão alguns projetos desenvolvidos durante minha jornada de aprendizado:
 
-⚡ Projeto 03 — Nome do Projeto
+🌐 Projeto 01 — Em breve
 
-Descrição resumida do projeto.
+Meu próximo projeto estará disponível aqui!
 
-Tecnologias: Python FastAPI PostgreSQL
+💻 Projeto 02 — Em desenvolvimento
 
-🔗 Ver projeto
+Estou trabalhando em novos projetos para colocar meus conhecimentos em prática.
+
+🎯 Objetivos
+
+Meu principal objetivo é crescer profissionalmente na área de tecnologia, adquirindo experiência e desenvolvendo cada vez mais minhas habilidades.
+
+Quero transformar meus conhecimentos em projetos reais, aprender com novos desafios e construir uma carreira sólida como profissional de tecnologia. 🚀
 
 📊 GitHub
 <div align="center">
 
 </div>
-🐍 Minha atividade no GitHub
-<div align="center">
-
-</div>
-📚 Atualmente
-
-🔹 Desenvolvimento de software
-
-🔹 Arquitetura e boas práticas
-
-🔹 APIs e microsserviços
-
-🔹 Cloud & DevOps
-
-🔹 Banco de dados
-
-🔹 Desenvolvimento Full Stack
-
-🔹 Inteligência Artificial
-
-🎯 Objetivos
-
-Meu objetivo é continuar evoluindo como profissional de tecnologia, participando de projetos desafiadores e desenvolvendo soluções que gerem valor real para pessoas e empresas.
-
-"Transformando ideias em código e problemas em soluções."
-
 📫 Entre em contato
 <div align="center">
 
 </div>
 <div align="center">
-⭐ Obrigado pela visita!
+✨ Obrigada pela visita!
 
-Se algum projeto foi útil para você, considere deixar uma estrela ⭐
+Aprendendo, desenvolvendo e evoluindo um código de cada vez. 💜
 
 </div>
-](https://github.com/clwraa/Apresenta-o/blob/main/README.md)
