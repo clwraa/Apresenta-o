@@ -1,4 +1,4 @@
-[👋 Olá, eu sou ANA
+👋 Olá, eu sou ANA
 
 💻 Desenvolvedor de Software | Full Stack | Tecnologia & Inovação
 
