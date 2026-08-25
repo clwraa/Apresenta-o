@@ -80,12 +80,19 @@ Tecnologias: Python FastAPI PostgreSQL
 
 </div>
 📚 Atualmente
+
 🔹 Desenvolvimento de software
+
 🔹 Arquitetura e boas práticas
+
 🔹 APIs e microsserviços
+
 🔹 Cloud & DevOps
+
 🔹 Banco de dados
+
 🔹 Desenvolvimento Full Stack
+
 🔹 Inteligência Artificial
 
 🎯 Objetivos
